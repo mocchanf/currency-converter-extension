@@ -30,10 +30,10 @@
 
 ```bash
 # GitHubからクローン
-git clone https://github.com/mocchan_f/currency-converter-extension.git
+git clone https://github.com/mocchanf/currency-converter-extension.git
 ```
 
-または [Releases](https://github.com/mocchan_f/currency-converter-extension/releases) からZIPファイルをダウンロード
+または [Releases](https://github.com/mocchanf/currency-converter-extension/releases) からZIPファイルをダウンロード
 
 ### 2. Chrome拡張機能として追加
 
